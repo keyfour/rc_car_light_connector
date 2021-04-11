@@ -1,0 +1,3 @@
+[submodule "Connectors_JST.pretty"]
+	path = Connectors_JST.pretty
+	url = https://github.com/KiCad/Connectors_JST.pretty.git
